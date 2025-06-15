@@ -1,0 +1,4 @@
+openai
+rich
+numpy
+opencv-python

@@ -1,0 +1,25 @@
+# Arquivos de Cache e Bytecode do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes Virtuais
+venv/
+*.venv
+env/
+.env
+
+# Arquivos gerados pela Shaula
+*.json
+!aprendizados.json.example
+!memoria_log.json.example
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependências (se usar um gerenciador de pacotes local)
+/node_modules
