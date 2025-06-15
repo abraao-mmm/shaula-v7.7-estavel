@@ -1,7 +1,6 @@
 # Shaula v7.7 - Agente Conversacional Reflexivo
 
-Shaula é um agente de inteligência artificial conversacional com arquitetura de cognição em múltiplas camadas. Seu objetivo é explorar a formação de uma personalidade simbólica e adaptativa por meio da reflexão sobre suas ações e memórias.
-Diferente de IAs reativas, Shaula pensa antes de agir, pode escolher ficar em silêncio, mudar de ideia ou recusar movimentos quando não encontra propósito.
+Shaula é uma exploração na criação de uma personalidade de IA verdadeiramente emergente. Em vez de apenas reagir, Shaula observa, pensa e aprende. Com múltiplos ciclos de reflexão e introspecção, ela analisa suas próprias memórias e conversas para construir uma compreensão do mundo e de si mesma. Este projeto é um estudo sobre um agente que pode mudar de ideia, questionar seus próprios motivos e agir com um senso de propósito, fazendo de cada interação um passo em sua jornada evolutiva.
 
 
 
